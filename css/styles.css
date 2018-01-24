@@ -10,7 +10,11 @@ body {
 
 header {
   padding: 154px 0 100px;
-  background-color: #448ee4;
+  background-color: #ff4343;
+}
+
+header p {
+    word-spacing: 30px;
 }
 
 /* media query when the media is wider than 992px */
@@ -30,4 +34,8 @@ section {
 
 a {
   color: orange;
+}
+
+footer {
+    background-color: #ff4343;
 }
